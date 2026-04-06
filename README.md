@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Stack
 
-- Language: `Python` / `Java` 
+- Language:  `Java` / `Python`
 - Tools: Git, GitHub
 
 ---
