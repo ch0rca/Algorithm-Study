@@ -13,7 +13,7 @@ public class BOJ_2493_탑 {
  
 	 public static void main(String[] args) throws IOException {
 		 
-	    	System.setIn(new FileInputStream("src/problem/test/boj_2493.txt"));
+	    	//System.setIn(new FileInputStream("src/problem/test/boj_2493.txt"));
 	        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
 	        int N = Integer.parseInt(br.readLine());
