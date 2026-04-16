@@ -8,7 +8,7 @@ import java.util.Queue;
 import java.util.LinkedList;
 import java.io.FileInputStream;
 
-
+// https://www.acmicpc.net/problem/1158
 public class BOJ_1158_요세푸스 {
 
     public static void main(String[] args) throws IOException {
